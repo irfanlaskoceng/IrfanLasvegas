@@ -1,5 +1,5 @@
 
-# Hi, I’m @Irfan 👋
+# Hi, I’m Irfan 👋
 - 👀 I’m interested in Full-Stack Web Developer
 - 🌱 I’m currently learning Microservices
 - 📫 How to reach me irfanlaskoceng97@gmail.com
